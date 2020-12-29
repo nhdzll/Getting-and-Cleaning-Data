@@ -1,0 +1,71 @@
+Y - Activity description	
+
+#Mean signals
+tBodyAcc-mean()-X - Time body accelerometer in x axis	
+tBodyAcc-mean()-Y - Time body accelerometer in y axis	
+tBodyAcc-mean()-Z - Time body accelerometer in z axis	
+tGravityAcc-mean()-X - Time Gravity accelerometer in x axis	
+tGravityAcc-mean()-Y - Time Gravity accelerometer in y axis	
+tGravityAcc-mean()-Z - Time Gravity accelerometer in z axis	
+tBodyAccJerk-mean()-X - Time body accelerometer jerk in x axis	
+tBodyAccJerk-mean()-Y - Time body accelerometer jerk in y axis		
+tBodyAccJerk-mean()-Z - Time body accelerometer jerk in z axis		
+tBodyGyro-mean()-X - Time body gyroscope in x axis		
+tBodyGyro-mean()-Y - Time body gyroscope in y axis
+tBodyGyro-mean()-Z - Time body gyroscope in x axis	
+tBodyGyroJerk-mean()-X - Time body gyroscope jerk in x axis
+tBodyGyroJerk-mean()-Y - Time body gyroscope jerk in y axis	
+tBodyGyroJerk-mean()-Z - Time body gyroscope jerk in z axis	
+tBodyAccMag-mean() - Time body accelerometer in x axis	
+tGravityAccMag-mean() - Time body accelerometer mag mean
+tBodyAccJerkMag-mean() - Time body accelerometer jerk mag mean		
+tBodyGyroMag-mean() - Time body gyroscope mag mean		
+tBodyGyroJerkMag-mean()	- Time body gyroscope mag mean
+fBodyAcc-mean()-X - FFT body accelerometer in x axis	
+fBodyAcc-mean()-Y - FFT body accelerometer in y axis	
+fBodyAcc-mean()-Z - FFT body accelerometer in z axis	
+fBodyAccJerk-mean()-X - FFT body accelerometer jerk in x axis
+fBodyAccJerk-mean()-Y - FFT body accelerometer jerk in y axis	
+fBodyAccJerk-mean()-Z - FFT body accelerometer jerk in z axis	
+fBodyGyro-mean()-X - FFT body gyroscope in x axis	
+fBodyGyro-mean()-Y - FFT body gyroscope in x axis	
+fBodyGyro-mean()-Z - FFT body gyroscope in x axis	
+fBodyAccMag-mean() - FFT body accelerometer mag mean	 
+fBodyBodyAccJerkMag-mean() - FFT body accelerometer jerk mag mean	
+fBodyBodyGyroMag-mean() - FFT body gyroscope mag mean
+fBodyBodyGyroJerkMag-mean() - FFT body gyroscope jerk mag mean
+
+#Standar deviations signals:
+tBodyAcc-std()-X - Time body accelerometer in x axis	
+tBodyAcc-std()-Y - Time body accelerometer in y axis	
+tBodyAcc-std()-Z - Time body accelerometer in z axis	
+tGravityAcc-std()-X - Time Gravity accelerometer in x axis	
+tGravityAcc-std()-Y - Time Gravity accelerometer in y axis	
+tGravityAcc-std()-Z - Time Gravity accelerometer in z axis	
+tBodyAccJerk-std()-X - Time body accelerometer jerk in x axis	
+tBodyAccJerk-std()-Y - Time body accelerometer jerk in y axis		
+tBodyAccJerk-std()-Z - Time body accelerometer jerk in z axis		
+tBodyGyro-std()-X - Time body gyroscope in x axis		
+tBodyGyro-std()-Y - Time body gyroscope in y axis
+tBodyGyro-std()-Z - Time body gyroscope in x axis	
+tBodyGyroJerk-std()-X - Time body gyroscope jerk in x axis
+tBodyGyroJerk-std()-Y - Time body gyroscope jerk in y axis	
+tBodyGyroJerk-std()-Z - Time body gyroscope jerk in z axis	
+tBodyAccMag-std() - Time body accelerometer in x axis	
+tGravityAccMag-std() - Time body accelerometer mag std
+tBodyAccJerkMag-std() - Time body accelerometer jerk mag std		
+tBodyGyroMag-std() - Time body gyroscope mag std		
+tBodyGyroJerkMag-std()	- Time body gyroscope mag std
+fBodyAcc-std()-X - FFT body accelerometer in x axis	
+fBodyAcc-std()-Y - FFT body accelerometer in y axis	
+fBodyAcc-std()-Z - FFT body accelerometer in z axis	
+fBodyAccJerk-std()-X - FFT body accelerometer jerk in x axis
+fBodyAccJerk-std()-Y - FFT body accelerometer jerk in y axis	
+fBodyAccJerk-std()-Z - FFT body accelerometer jerk in z axis	
+fBodyGyro-std()-X - FFT body gyroscope in x axis	
+fBodyGyro-std()-Y - FFT body gyroscope in x axis	
+fBodyGyro-std()-Z - FFT body gyroscope in x axis	
+fBodyAccMag-std() - FFT body accelerometer mag mean	 
+fBodyBodyAccJerkMag-std() - FFT body accelerometer jerk mag std	
+fBodyBodyGyroMag-std() - FFT body gyroscope mag std
+fBodyBodyGyroJerkMag-std() - FFT body gyroscope jerk mag std
